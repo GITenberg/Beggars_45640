@@ -1,0 +1,31 @@
+_repo: Beggars_45640
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45640-h/images/cover-decoration.png
+creator:
+  author:
+    agent_name: Davies, W. H. (William Henry)
+    aliases:
+    - Davies, William H. (William Henry)
+    - Davies, William Henry
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '3014'
+    url: http://www.gutenberg.org/2009/agents/3014
+    wikipedia: http://en.wikipedia.org/wiki/W._H._Davies
+description: ''
+gutenberg_issued: '2014-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'HV'
+- !lcsh 'Begging'
+title: Beggars
+url: http://www.gutenberg.org/ebooks/45640
